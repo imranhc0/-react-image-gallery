@@ -1,6 +1,6 @@
 // Code: App component
 import ImageGallery from './Gallery'
-import './App.css'
+import './app.css'
 
 function App() {
   
